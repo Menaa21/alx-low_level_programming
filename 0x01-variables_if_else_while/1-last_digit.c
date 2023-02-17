@@ -9,6 +9,7 @@
  *
  * Return: Always 0 (succuss)
  */
+
 int main(void)
 {
 	int n;
