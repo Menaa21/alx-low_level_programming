@@ -9,7 +9,7 @@
 
 int main(void)
 
-{	
+{
 
 	int i;
 
@@ -21,4 +21,4 @@ int main(void)
 	/*}*/
 	printf("Infinite loop avoided! \\0/\n");
 	return (0);
-}	
+}
