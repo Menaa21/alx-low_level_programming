@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * atoi - Convert a string to an integer.
+ * _atoi - Convert a string to an integer.
  * @s: The pointer to convert
  * Return: A integer
  */
 
-int atoi(char *s)
+int _atoi(char *s)
 
 {
 
@@ -27,7 +27,7 @@ int atoi(char *s)
 	ni = (ni * 10) + (s[c] - '0');
 	c++;
 	}
-	if (isi = 1)
+	if (isi == 1)
 	{
 	break;
 	}
